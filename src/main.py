@@ -17,7 +17,7 @@ total_anggur = n_anggur * price_anggur
 total = total_apel + total_jeruk + total_anggur
 
 # Show
-print(f'''Detail Belanjaan
+print(f'''Detail Belanjaan2a
       
 Apel : {n_apel} x {price_apel} = {total_apel}
 Jeruk : {n_jeruk} x {price_jeruk} = {total_jeruk}
@@ -25,3 +25,4 @@ Anggur : {n_anggur} x {price_anggur} = {total_anggur}
       
 Total : {total}
 ''')
+
